@@ -10,11 +10,12 @@ read carefully and fill as you want
 [CENTER][IMG="The main logo"]https://raw.githubusercontent.com/ctosp/ctosp-xda/master/Files/ctosp.png[/IMG]
 
 
-[B]CTOSP ROM[/B] is a ROM based on AOSP with some patches and fixes from LineageOS and various other projects. The idea is to bring custom features and some of the most useful apps on your device
+[CENTER][IMG="The main logo"]https://raw.githubusercontent.com/ctosp/ctosp-xda/master/Files/ctosp.png[/IMG]
 
 
+[B]CTOSP ROM[/B] [FONT="Century Gothic"]is a ROM based on AOSP with some patches and fixes from LineageOS and various other projects. The idea is to bring custom features and some of the most useful apps on your device[/FONT]
 
-We have group [URL="https://t.me/CTOSP"]Telegram Group[/URL] here you can report bugs, asking for features
+Stay tune to [URL="https://t.me/CTOSP"][FONT="Century Gothic"][B]@ctosp[/B][/FONT][/URL] 
 
 
 [CODE]/*
@@ -28,19 +29,20 @@ We have group [URL="https://t.me/CTOSP"]Telegram Group[/URL] here you can report
  */[/CODE]
  
  
- [B][SIZE="5"][FONT="Times New Roman"]What's this?[/FONT][/SIZE][/B]
-[SIZE="4"][FONT="Times New Roman"]CTOSP rom is fully Open Source Project with 
+ [B][SIZE="5"][FONT="Century Gothic"]What's this?[/FONT][/SIZE][/B]
+[SIZE="4"][FONT="Century Gothic"]CTOSP rom is fully Open Source Project with 
 some useful features. Started with the aim of keeping things simple, clean and neat.[/FONT][/SIZE]
-[/CENTER]
 
 [IMG="Thanks Section"]https://raw.githubusercontent.com/ctosp/ctosp-xda/master/Files/Thanks.png[/IMG]
-Thanks to this people, this ROM could be possible, so, i have to give a 
-big thanks to:
 
-[URL="https://android.googlesource.com/"][B] AOSP [/B][/URL]
+[FONT="Century Gothic"]Thanks to this people, this ROM could be possible, so, i have to give a 
+big thanks to:[/FONT]
 
-[URL="https://github.com/PixelExperience"][B] PixelExperience [/B][/URL] 
+[B][FONT="Century Gothic"][SIZE="5"]Credits [/SIZE][/FONT][/B]
+[HIDE][URL="https://android.googlesource.com/"][B] AOSP [/B][/URL]
+[URL="https://github.com/PixelExperience"][B] PixelExperience [/B][/URL] [/HIDE]
 
+[IMG="Team Section"]http://https://raw.githubusercontent.com/ctosp/ctosp-xda/master/Files/Team.png[/IMG]
 @KrishV (Author, Source maintainer)
 @senthil01 (Owner, Source & Device maintainer)
 @karthik karhem (Owner, Source & Device maintainer)
@@ -61,7 +63,6 @@ inconvenience
 [IMG="Downloads Part"]https://raw.githubusercontent.com/ctosp/ctosp-xda/master/Files/Download.png[/IMG]
 
 Clean Flash is always recommended![/b]
-
 [B]Downloads:[/B]
 /***
 THIS IS FOR POSTING YOUR LINKS, 
@@ -70,7 +71,7 @@ POST YOUR LINKS OF YOUR ROM, SOURCES(DEVICE TREE,VENDOR TREE,KERNEL TREE)
 
 [URL="https://thisisyoursite"]ROM Folder Sf or Whatever it may be[/URL]
 
-This rom has inbuilt Gapps. So NO NEED to flash Manually
+This rom has inbuilt Gapps. So "[B][COLOR="SeaGreen"]NO NEED[/COLOR][/B]" to flash Manually
 
 [IMG="Sources Part"]https://raw.githubusercontent.com/ctosp/ctosp-xda/master/Files/Source.png[/IMG]
 
@@ -83,23 +84,20 @@ This rom has inbuilt Gapps. So NO NEED to flash Manually
 
 [B]ROM Sources[/B]
 [URL="https://github.com/ctosp"]CTOSP Github[/URL]
-
+[/CENTER]
 
 [LIST]
-[*][B][FONT="Times New Roman"][SIZE="4"]ROM OS Version:[/SIZE][/FONT][/B] 9.x Pie
-[*][B][SIZE="4"][FONT="Times New Roman"]ROM Kernel:[/FONT][/SIZE][/B] Linux 4.x
-[*][B][SIZE="4"][FONT="Times New Roman"]ROM Firmware Required:[/FONT][/SIZE][/B] TWRP, Unlocked Bootloader
-[*][B][FONT="Times New Roman"][SIZE="4"]Based On:[/SIZE][/FONT][/B] AOSP
+[*][B][SIZE="4"][FONT="Century Gothic"]ROM OS Version:[/FONT][/SIZE][/B] android-9.0.0_r35
+[*][B][SIZE="4"][FONT="Century Gothic"]ROM Kernel:[/FONT][/SIZE][/B] Linux 4.x
+[*][B][SIZE="4"][FONT="Century Gothic"]ROM Firmware Required:[/FONT][/SIZE][/B] TWRP, Unlocked Bootloader
+[*][B][SIZE="4"][FONT="Century Gothic"]Based On:[/FONT][/SIZE][/B] pure AOSP and lineage OS
 [/LIST]
 
+[B][U][SIZE="4"][FONT="Century Gothic"]Contributors[/FONT][/SIZE][/U][/B]
+          *****MENTION YOUR NAME*****
 
-
-[FONT="Times New Roman"][B][U][SIZE="4"]Contributers[/SIZE][/U][/B]
- *****MENTION YOUR NAME**""""
-
-[B][FONT="Times New Roman"][SIZE="4"]Version Information[/SIZE][/FONT][/B]
+[B][SIZE="4"][FONT="Century Gothic"]Version Information[/FONT][/SIZE][/B]
 [B]Status [/B]: *****Beta/stable*****
-[/CENTER]
 ```
 
 

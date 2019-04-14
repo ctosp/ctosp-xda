@@ -33,7 +33,7 @@ We have group [URL="https://t.me/CTOSP"]Telegram Group[/URL] here you can report
 some useful features. Started with the aim of keeping things simple, clean and neat.[/FONT][/SIZE]
 [/CENTER]
 
-[IMG="Thanks Section"]https://raw.githubusercontent.com/ctosp/docs_ctosp-TEMPLATE/master/Files/Thanks.png[/IMG]
+[IMG="Thanks Section"]https://raw.githubusercontent.com/ctosp/ctosp-xda/master/Files/Thanks.png[/IMG]
 Thanks to this people, this ROM could be possible, so, i have to give a 
 big thanks to:
 

@@ -7,7 +7,7 @@ read carefully and fill as you want
 ======
 ```
 
-[CENTER][IMG="The main logo"]https://raw.githubusercontent.com/ctosp/docs_ctosp-TEMPLATE/master/Files/ctosp.png[/IMG]
+[CENTER][IMG="The main logo"]https://raw.githubusercontent.com/ctosp/ctosp-xda/master/Files/ctosp.png[/IMG]
 
 
 [B]CTOSP ROM[/B] is a ROM based on AOSP with some patches and fixes from LineageOS and various other projects. The idea is to bring custom features and some of the most useful apps on your device
@@ -58,7 +58,7 @@ inconvenience
 -And at last Reboot! 
 [First boot will take few minutes! Have patience] 
 
-[IMG="Downloads Part"]https://raw.githubusercontent.com/ctosp/docs_ctosp-TEMPLATE/master/Files/Download.png[/IMG]
+[IMG="Downloads Part"]https://raw.githubusercontent.com/ctosp/ctosp-xda/master/Files/Download.png[/IMG]
 
 Clean Flash is always recommended![/b]
 
@@ -72,7 +72,7 @@ POST YOUR LINKS OF YOUR ROM, SOURCES(DEVICE TREE,VENDOR TREE,KERNEL TREE)
 
 This rom has inbuilt Gapps. So NO NEED to flash Manually
 
-[IMG="Sources Part"]https://raw.githubusercontent.com/ctosp/docs_ctosp-TEMPLATE/master/Files/Source.png[/IMG]
+[IMG="Sources Part"]https://raw.githubusercontent.com/ctosp/ctosp-xda/master/Files/Source.png[/IMG]
 
 [B]Device Sources:[/B]
 

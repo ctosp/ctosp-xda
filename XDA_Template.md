@@ -43,11 +43,10 @@ big thanks to:[/FONT]
 [URL="https://github.com/PixelExperience"][B] PixelExperience [/B][/URL] [/HIDE]
 
 [IMG="Team Section"]http://raw.githubusercontent.com/ctosp/ctosp-xda/master/Files/Team.png[/IMG]
-KrishV[URL="https://forum.xda-developers.com/member.php?u=8072879][/URL] (Author, Source maintainer)
-
-karthik karhem[URL="https://forum.xda-developers.com/member.php?u=8719371"][/URL] (Owner, Source & Device maintainer)
-nick00007[URL="https://forum.xda-developers.com/member.php?u=9143744"][/URL](Owner, source & Device maintainer)
-senthil01[URL="https://forum.xda-developers.com/member.php?u=8065793"][/URL] (Owner, Source & Device maintainer)
+@KrishV[URL="https://forum.xda-developers.com/member.php?u=8072879][/URL] (Author, Source maintainer)
+@karthik karhem[URL="https://forum.xda-developers.com/member.php?u=8719371"][/URL] (Owner, Source & Device maintainer)
+@nick00007[URL="https://forum.xda-developers.com/member.php?u=9143744"][/URL](Owner, source & Device maintainer)
+@senthil01[URL="https://forum.xda-developers.com/member.php?u=8065793"][/URL] (Owner, Source & Device maintainer)
 
 If i missed anyone to mention ping me, i will mention you, sorry for the 
 inconvenience

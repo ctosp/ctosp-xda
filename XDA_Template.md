@@ -8,12 +8,6 @@ read carefully and fill as you want
 ```
 [CENTER][IMG="The main logo"]https://raw.githubusercontent.com/ctosp/ctosp-xda/master/Files/ctosp.png[/IMG]
 
-
-[B]CTOSP ROM[/B] [FONT="Century Gothic"]is a ROM based on AOSP with some patches and fixes from LineageOS and various other projects. The idea is to bring custom features and some of the most useful apps on your device[/FONT]
-
-Stay tune to [URL="https://t.me/CTOSP"][FONT="Century Gothic"][B]@ctosp[/B][/FONT][/URL] 
-
-
 [CODE]/*
  * Your warranty is now void.
  *
@@ -24,6 +18,16 @@ Stay tune to [URL="https://t.me/CTOSP"][FONT="Century Gothic"][B]@ctosp[/B][/FON
  * you point the finger at me for messing up your device, I will laugh at you.
  */[/CODE]
  
+[IMG="Intro"]https://raw.githubusercontent.com/ctosp/ctosp-xda/master/Files/Intro.png[/IMG]
+
+[B]CTOSP ROM[/B] [FONT="Century Gothic"]is a ROM based on AOSP with some patches and fixes from LineageOS and various other projects. The idea is to bring custom features and some of the most useful apps on your device[/FONT]
+
+Stay tune to [URL="https://t.me/CTOSP"][FONT="Century Gothic"][B]@ctosp[/B][/FONT][/URL] 
+
+[IMG="Features"]https://raw.githubusercontent.com/ctosp/ctosp-xda/master/Files/Features.png[/IMG]
+
+[HIDE][/HIDE]
+
  
  [B][SIZE="5"][FONT="Century Gothic"]What's this?[/FONT][/SIZE][/B]
 [SIZE="4"][FONT="Century Gothic"]CTOSP rom is fully Open Source Project with 

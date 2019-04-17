@@ -42,7 +42,7 @@ big thanks to:[/FONT]
 [HIDE][URL="https://android.googlesource.com/"][B] AOSP [/B][/URL]
 [URL="https://github.com/PixelExperience"][B] PixelExperience [/B][/URL] [/HIDE]
 
-[IMG="Team Section"]http://https://raw.githubusercontent.com/ctosp/ctosp-xda/master/Files/Team.png[/IMG]
+[IMG="Team Section"]http://raw.githubusercontent.com/ctosp/ctosp-xda/master/Files/Team.png[/IMG]
 @KrishV[URL="https://forum.xda-developers.com/member.php?u=8072879][/URL] (Author, Source maintainer)
 @senthil01[URL="https://forum.xda-developers.com/member.php?u=8065793"][/URL] (Owner, Source & Device maintainer)
 @karthik karhem[URL="https://forum.xda-developers.com/member.php?u=8719371"][/URL] (Owner, Source & Device maintainer)

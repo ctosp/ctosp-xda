@@ -68,13 +68,6 @@ POST YOUR LINKS OF YOUR ROM, SOURCES(DEVICE TREE,VENDOR TREE,KERNEL TREE)
 
 This rom has inbuilt Gapps. So "[B][COLOR="SeaGreen"]NO NEED[/COLOR][/B]" to flash Manually
 
-[IMG="Sources Part"]https://raw.githubusercontent.com/ctosp/ctosp-xda/master/Files/Source.png[/IMG]
-
-[B]Device Sources:[/B]
-
-[URL="REPLACE YOUR LINK HERE"]Device  tree[/URL] 
-[URL="REPLACE YOUR LINK HERE"]Kernel tree[/URL] 
-[URL="REPLACE YOUR LINK HERE"]Vendor tree[/URL]
 
 [IMG="Flashing"]https://raw.githubusercontent.com/ctosp/ctosp-xda/master/Files/flashing.png[/IMG]
 Clean Flash
@@ -94,6 +87,14 @@ Dirty Flash
 5) Flash - Vendor + Firmware + ROM + DFE + Msgisk.
 6) Once done, wipe cache.
 7) Reboot to System.
+
+[IMG="Sources Part"]https://raw.githubusercontent.com/ctosp/ctosp-xda/master/Files/Source.png[/IMG]
+
+[B]Device Sources:[/B]
+
+[URL="REPLACE YOUR LINK HERE"]Device  tree[/URL] 
+[URL="REPLACE YOUR LINK HERE"]Kernel tree[/URL] 
+[URL="REPLACE YOUR LINK HERE"]Vendor tree[/URL]
 
 [B]ROM Sources[/B]
 [URL="https://github.com/ctosp"]CTOSP Github[/URL]

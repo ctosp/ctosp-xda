@@ -6,10 +6,6 @@ read carefully and fill as you want
 #template
 ======
 ```
-
-[CENTER][IMG="The main logo"]https://raw.githubusercontent.com/ctosp/ctosp-xda/master/Files/ctosp.png[/IMG]
-
-
 [CENTER][IMG="The main logo"]https://raw.githubusercontent.com/ctosp/ctosp-xda/master/Files/ctosp.png[/IMG]
 
 

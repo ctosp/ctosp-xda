@@ -36,10 +36,10 @@ big thanks to:[/FONT]
 [URL="https://github.com/PixelExperience"][B] PixelExperience [/B][/URL] [/HIDE]
 
 [IMG="Team Section"]http://raw.githubusercontent.com/ctosp/ctosp-xda/master/Files/Team.png[/IMG]
-@krishV(Vamsee Krishna):(Author & source maintainer)
-@Senthil:(project Co-leader & source maintainer)
-@karthik Karhem:(project Co-leader & source maintainer)
-@nikhil(nick00007)(Helper & source maintainer)
+@krishV(Vamsee Krishna): (Author & source maintainer)
+@Senthil: (project Co-leader & source maintainer)
+@karthik Karhem: (project Co-leader & source maintainer)
+@nikhil(nick00007): (Helper & source maintainer)
 
 If i missed anyone to mention ping me, i will mention you, sorry for the 
 inconvenience

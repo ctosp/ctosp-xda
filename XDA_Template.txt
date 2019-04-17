@@ -1,11 +1,4 @@
-# XDA thread template (recommended)
 
-This is the template for xda thread, you can use it for you thread
-read carefully and fill as you want
-
-#template
-======
-```
 [CENTER][IMG="The main logo"]https://raw.githubusercontent.com/ctosp/ctosp-xda/master/Files/ctosp.png[/IMG]
 
 [CODE]/*
@@ -118,6 +111,3 @@ Dirty Flash
 
 [B][SIZE="4"][FONT="Century Gothic"]Version Information[/FONT][/SIZE][/B]
 [B]Status [/B]: *****Beta/stable*****
-```
-
-

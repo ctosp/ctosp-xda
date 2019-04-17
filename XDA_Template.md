@@ -26,7 +26,7 @@ Stay tune to [URL="https://t.me/CTOSP"][FONT="Century Gothic"][B]@ctosp[/B][/FON
 
 [IMG="Features"]https://raw.githubusercontent.com/ctosp/ctosp-xda/master/Files/Features.png[/IMG]
 
-[HIDE][/HIDE]
+[HIDE] Cango! Devs add changelog here[/HIDE]
 
  
  [B][SIZE="5"][FONT="Century Gothic"]What's this?[/FONT][/SIZE][/B]
@@ -65,6 +65,7 @@ inconvenience
 
 Clean Flash is always recommended![/b]
 [B]Downloads:[/B]
+
 /***
 THIS IS FOR POSTING YOUR LINKS, 
 POST YOUR LINKS OF YOUR ROM, SOURCES(DEVICE TREE,VENDOR TREE,KERNEL TREE)             
@@ -82,6 +83,24 @@ This rom has inbuilt Gapps. So "[B][COLOR="SeaGreen"]NO NEED[/COLOR][/B]" to fla
 [URL="REPLACE YOUR LINK HERE"]Kernel tree[/URL] 
 [URL="REPLACE YOUR LINK HERE"]Vendor tree[/URL]
 
+[IMG="Flashing"]https://raw.githubusercontent.com/ctosp/ctosp-xda/master/Files/flashing.png[/IMG]
+Clean Flash
+1) Backup Everything (Most Important) + Latest Vendors And Firmware
+2) Download ROM, Magisk, etc.
+3) Reboot to Recovery (TWRP)
+4) Wipe System, Data, Cache, Dalvik Cache.
+5) Flash - Vendor + Firmware + ROM + DFE + Msgisk.
+6) Once done, wipe cache.
+7) Reboot to System.
+
+Dirty Flash
+1) Backup Everything (Most Important) + Latest Vendors And Firmware
+2) Download ROM
+3) Reboot to Recovery (TWRP)
+4) Wipe Cache & Dalvik Cache.
+5) Flash - Vendor + Firmware + ROM + DFE + Msgisk.
+6) Once done, wipe cache.
+7) Reboot to System.
 
 [B]ROM Sources[/B]
 [URL="https://github.com/ctosp"]CTOSP Github[/URL]

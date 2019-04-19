@@ -37,7 +37,7 @@ big thanks to:[/FONT]
 
 [IMG="Team Section"]http://raw.githubusercontent.com/ctosp/ctosp-xda/master/Files/Team.png[/IMG]
 @krishV(Vamsee Krishna): (Author & source maintainer)
-@Senthil: (project Co-leader & source maintainer)
+@Senthil01: (project Co-leader & source maintainer)
 @karthik Karhem: (project Co-leader & source maintainer)
 @nikhil(nick00007): (Helper & source maintainer)
 

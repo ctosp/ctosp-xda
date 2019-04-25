@@ -33,7 +33,10 @@ big thanks to:[/FONT]
 
 [B][FONT="Century Gothic"][SIZE="5"]Credits [/SIZE][/FONT][/B]
 [HIDE][URL="https://android.googlesource.com/"][B] AOSP [/B][/URL]
-[URL="https://github.com/PixelExperience"][B] PixelExperience [/B][/URL] [/HIDE]
+[URL="https://github.com/PixelExperience"][B] PixelExperience [/B][/URL] 
+EvoX
+nitrogen OS
+Pure Nexus[/HIDE]
 
 [IMG="Team Section"]http://raw.githubusercontent.com/ctosp/ctosp-xda/master/Files/Team.png[/IMG]
 @krishV(Vamsee Krishna): (Author & source maintainer)

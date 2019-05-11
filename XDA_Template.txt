@@ -35,7 +35,7 @@ big thanks to:[/FONT]
 [HIDE][URL="https://android.googlesource.com/"][B] AOSP [/B][/URL]
 [URL="https://github.com/PixelExperience"][B] PixelExperience [/B][/URL] 
 EvoX
-nitrogen OS
+Nitrogen OS
 Pure Nexus[/HIDE]
 
 [IMG="Team Section"]http://raw.githubusercontent.com/ctosp/ctosp-xda/master/Files/Team.png[/IMG]
@@ -78,7 +78,7 @@ Clean Flash
 2) Download ROM, Magisk, etc.
 3) Reboot to Recovery (TWRP)
 4) Wipe System, Data, Cache, Dalvik Cache.
-5) Flash - Vendor + Firmware + ROM + DFE + Msgisk.
+5) Flash - Vendor + Firmware + ROM + DFE + Magisk.
 6) Once done, wipe cache.
 7) Reboot to System.
 
@@ -87,7 +87,7 @@ Dirty Flash
 2) Download ROM
 3) Reboot to Recovery (TWRP)
 4) Wipe Cache & Dalvik Cache.
-5) Flash - Vendor + Firmware + ROM + DFE + Msgisk.
+5) Flash - Vendor + Firmware + ROM + DFE + Magisk.
 6) Once done, wipe cache.
 7) Reboot to System.
 

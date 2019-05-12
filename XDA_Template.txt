@@ -43,6 +43,7 @@ Pure Nexus[/HIDE]
 @Senthil01: (project Co-leader & source maintainer)
 @karthik Karhem: (project Co-leader & source maintainer)
 @nikhil(nick00007): (Helper & source maintainer)
+@Seereign(Serendeep): (UI/UX Designer & source maintainer)
 
 If i missed anyone to mention ping me, i will mention you, sorry for the 
 inconvenience

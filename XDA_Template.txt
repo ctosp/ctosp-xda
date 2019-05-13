@@ -28,7 +28,7 @@ some useful features. Started with the aim of keeping things simple, clean and n
 
 [IMG="Thanks Section"]https://raw.githubusercontent.com/ctosp/ctosp-xda/master/Files/Thanks.png[/IMG]
 
-[FONT="Century Gothic"]Thanks to these projects, without which this ROM Project could not have been possible.:[/FONT]
+[FONT="Century Gothic"]Thanks to these projects, without which this ROM Project could not have been possible:[/FONT]
 
 [B][FONT="Century Gothic"][SIZE="5"]Credits [/SIZE][/FONT][/B]
 [HIDE][URL="https://android.googlesource.com/"][B] AOSP [/B][/URL]
@@ -60,11 +60,6 @@ If I forgot to mention anyone, Feel free to ping me. Sorry For the inconvenience
 
 Clean Flash is always recommended![/b]
 [B]Downloads:[/B]
-
-/***
-THIS IS FOR POSTING YOUR LINKS, 
-POST YOUR LINKS OF YOUR ROM, SOURCES(DEVICE TREE,VENDOR TREE,KERNEL TREE)             
-***/
 
 [URL="Insert Your Download Link here"]Download[/URL]
 
